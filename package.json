@@ -1,0 +1,13 @@
+{
+  "name": "api_estudos",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Bianca",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
